@@ -1,0 +1,20 @@
+# Maven target folder
+target/
+
+# TestNG reports
+test-output/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+
+# Excel data backup (optional)
+*.xlsx~
